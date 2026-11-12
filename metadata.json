@@ -1,0 +1,6 @@
+{
+  "name": "Quản lý Kho",
+  "description": "Ứng dụng quản lý kho hàng toàn diện trên Android",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

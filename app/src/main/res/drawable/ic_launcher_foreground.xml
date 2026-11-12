@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Nền trắng -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M0,0h108v108h-108z" />
+
+    <!-- Vòng tròn bên ngoài -->
+<!--    <path-->
+<!--        android:fillColor="#00000000"-->
+<!--        android:strokeColor="#2864D7"-->
+<!--        android:strokeWidth="2.2"-->
+<!--        android:pathData="M54,8-->
+<!--            A46,46 0,1 0,54,100-->
+<!--            A46,46 0,1 0,54,8" />-->
+
+    <!-- Mái kho -->
+    <path
+        android:fillColor="#2864D7"
+        android:pathData="M35,43
+            L54,34
+            L73,43
+            L73,70
+            L35,70
+            Z" />
+
+    <!-- Cửa kho -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M44,48
+            L64,48
+            L64,70
+            L44,70
+            Z" />
+
+    <!-- Cửa kho màu xanh bên trong -->
+    <path
+        android:fillColor="#2864D7"
+        android:pathData="M49,54
+            L59,54
+            L59,70
+            L49,70
+            Z" />
+
+    <!-- Cột trái -->
+    <path
+        android:fillColor="#2864D7"
+        android:pathData="M35,58
+            L44,58
+            L44,70
+            L35,70
+            Z" />
+
+    <!-- Cột phải -->
+    <path
+        android:fillColor="#2864D7"
+        android:pathData="M64,58
+            L73,58
+            L73,70
+            L64,70
+            Z" />
+
+    <!-- Ô cửa nhỏ bên trái -->
+    <path
+        android:fillColor="#2864D7"
+        android:pathData="M45,65
+            h5
+            v5
+            h-5
+            Z" />
+
+    <!-- Ô cửa nhỏ bên phải -->
+    <path
+        android:fillColor="#2864D7"
+        android:pathData="M58,65
+            h5
+            v5
+            h-5
+            Z" />
+
+</vector>
